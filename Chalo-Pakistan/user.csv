@@ -1,0 +1,11 @@
+USER_ID,USERNAME,PASSWORD,ROLE
+1,admin,admin123,ADMIN
+2,testadmin,root,ADMIN
+3,manager01,pass001,ADMIN
+4,controlpanel,cp2025,ADMIN
+5,areesha,pass123,TRAVELLER
+6,bilal,hello123,TRAVELLER
+7,fatima,xyz789,TRAVELLER
+8,hamza,hmz456,TRAVELLER
+9,zara,zara777,TRAVELLER
+10,ali,alipk321,TRAVELLER
